@@ -1,2 +1,7 @@
 # programming-word-dictionary
-explaination of words in technical field
+* logarithimic time complexity
+* linear
+* quadratic
+* quadratic complexity
+* exponential time complexity
+* permutations
